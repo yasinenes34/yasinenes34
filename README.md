@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **Entity Framework, Laravel and Unity**
 
-- 👯 I’m looking to collaborate on **long-term internship**
-
-- 🤝 I’m looking for help with **long-term internship**
-
 - 📫 How to reach me **yasinnnazmi1@gmail.com**
 
 - ⚡ Fun fact **I am ambitious, hardworking, open to learning, planned, patient, following new technologies, constantly trying to improve myself**
